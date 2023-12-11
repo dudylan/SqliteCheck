@@ -4,6 +4,8 @@
 此次更新sqlite-net 也可以正常引用了。
 项目下载以后。需要把项目中simple.dll 和dict 文件夹 复制到运行的目录中。 即可正常运行
 
+---------------------------------
+# before 
 # This is an example of C # loading simple.dll
 
 The SqlCipherLoadEx project attempted to load using sqlite-net  
